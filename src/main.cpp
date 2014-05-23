@@ -2256,12 +2256,12 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
         else
             bnRequired.SetCompact(ComputeMinWork(GetLastBlockIndex(pcheckpoint, false)->nBits, deltaTime));
 
-        if (bnNewBlock > bnRequired)
+        /*if (bnNewBlock > bnRequired)
         {
             if (pfrom)
                 pfrom->Misbehaving(100);
             return error("ProcessBlock() : block with too little %s", pblock->IsProofOfStake()? "proof-of-stake" : "proof-of-work");
-        }
+        }*/
     }
 
     // ppcoin: ask for pending sync-checkpoint if any
