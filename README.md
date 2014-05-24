@@ -1,2 +1,4 @@
-BCTS
+SHOP COIN 
+
+www.bitcointalknshop.com
 ====
