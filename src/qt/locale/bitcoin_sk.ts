@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bctscoin</source>
+        <source>About shopcoin</source>
         <translation>O Blackcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bctscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;bctscoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;shopcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;shopcoin&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</source>
+Copyright © 2014 The shopcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</translation>
+Copyright © 2014 The shopcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bctscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše bctscoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your shopcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše shopcoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bctscoin address</source>
-        <translation>Podpísať správu, že vlastníte bctscoin adresu</translation>
+        <source>Sign a message to prove you own a shopcoin address</source>
+        <translation>Podpísať správu, že vlastníte shopcoin adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bctscoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou bctscoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified shopcoin address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou shopcoin adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>bctscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>bctscoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>shopcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>shopcoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bctscoin</source>
-        <translation>Zobraziť informácie o bctscoin</translation>
+        <source>Show information about shopcoin</source>
+        <translation>Zobraziť informácie o shopcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bctscoin address</source>
-        <translation>Poslať mince na bctscoin adresu</translation>
+        <source>Send coins to a shopcoin address</source>
+        <translation>Poslať mince na shopcoin adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bctscoin</source>
-        <translation>Upraviť možnosti konfigurácie pre bctscoin</translation>
+        <source>Modify configuration options for shopcoin</source>
+        <translation>Upraviť možnosti konfigurácie pre shopcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bctscoin</source>
-        <translation>&amp;O bctscoin</translation>
+        <source>&amp;About shopcoin</source>
+        <translation>&amp;O shopcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bctscoin client</source>
-        <translation>bctscoin client</translation>
+        <source>shopcoin client</source>
+        <translation>shopcoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bctscoin network</source>
-        <translation><numerusform>%n aktívne spojenie s bctscoin sieťov</numerusform><numerusform>%n aktívnych spojení s bctscoin sieťov</numerusform><numerusform>%n aktívnych spojení s bctscoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to shopcoin network</source>
+        <translation><numerusform>%n aktívne spojenie s shopcoin sieťov</numerusform><numerusform>%n aktívnych spojení s shopcoin sieťov</numerusform><numerusform>%n aktívnych spojení s shopcoin sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About bctscoin card</source>
-        <translation>O bctscoin karte</translation>
+        <source>About shopcoin card</source>
+        <translation>O shopcoin karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bctscoin card</source>
-        <translation>Zobraziť informácie o bctscoin karte</translation>
+        <source>Show information about shopcoin card</source>
+        <translation>Zobraziť informácie o shopcoin karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bctscoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou bctscoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid shopcoin address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou shopcoin adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bctscoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. bctscoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. shopcoin can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. shopcoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bctscoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou bctscoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid shopcoin address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou shopcoin adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bctscoin-Qt</source>
-        <translation>bctscoin-Qt</translation>
+        <source>shopcoin-Qt</source>
+        <translation>shopcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bctscoin after logging in to the system.</source>
-        <translation>Automaticky spustiť bctscoin po prihlásení sa do systému.</translation>
+        <source>Automatically start shopcoin after logging in to the system.</source>
+        <translation>Automaticky spustiť shopcoin po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bctscoin on system login</source>
-        <translation>&amp;Spustiť bctscoin pri prihlásení do systému</translation>
+        <source>&amp;Start shopcoin on system login</source>
+        <translation>&amp;Spustiť shopcoin pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bctscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta bctscoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the shopcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta shopcoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bctscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti bctscoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the shopcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti shopcoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bctscoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní bctscoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting shopcoin.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní shopcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bctscoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť bctscoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show shopcoin addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť shopcoin adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bctscoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní bctscoin.</translation>
+        <source>This setting will take effect after restarting shopcoin.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní shopcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bctscoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou bctscoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the shopcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou shopcoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bctscoin-Qt help message to get a list with possible bctscoin command-line options.</source>
-        <translation>Zobraziť bctscoin-Qt nápovedu k získaniu zoznamu pre možnosti bctscoin príkazového riadku.</translation>
+        <source>Show the shopcoin-Qt help message to get a list with possible shopcoin command-line options.</source>
+        <translation>Zobraziť shopcoin-Qt nápovedu k získaniu zoznamu pre možnosti shopcoin príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>bctscoin - Debug window</source>
-        <translation>bctscoin - Ladiace okno</translation>
+        <source>shopcoin - Debug window</source>
+        <translation>shopcoin - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bctscoin Core</source>
-        <translation>bctscoin Core</translation>
+        <source>shopcoin Core</source>
+        <translation>shopcoin Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,7 +1596,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bctscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the shopcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Otvorte Blackcoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
@@ -1606,7 +1606,7 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bctscoin RPC console.</source>
+        <source>Welcome to the shopcoin RPC console.</source>
         <translation>Vitajte v Blackcoin RPC konzole.</translation>
     </message>
     <message>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte bctscoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte shopcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bctscoin address</source>
-        <translation>VAROVANIE: Neplatná bctscoin adresa</translation>
+        <source>WARNING: Invalid shopcoin address</source>
+        <translation>VAROVANIE: Neplatná shopcoin adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadaj a bctscoin addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadaj a shopcoin addresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bctscoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto bctscoin adresu</translation>
+        <source>Sign the message to prove you own this shopcoin address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto shopcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bctscoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou bctscoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified shopcoin address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou shopcoin adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte bctscoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte shopcoin adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bctscoin signature</source>
-        <translation>Zadajte bctscoin podpis</translation>
+        <source>Enter shopcoin signature</source>
+        <translation>Zadajte shopcoin podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bctscoin version</source>
-        <translation>bctscoin verzia</translation>
+        <source>shopcoin version</source>
+        <translation>shopcoin verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bctscoind</source>
-        <translation>Pošli príkaz na -server alebo bctscoind</translation>
+        <source>Send command to -server or shopcoind</source>
+        <translation>Pošli príkaz na -server alebo shopcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bctscoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: bctscoin.conf)</translation>
+        <source>Specify configuration file (default: shopcoin.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: shopcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bctscoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: bctscoind.pid)</translation>
+        <source>Specify pid file (default: shopcoind.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: shopcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bctscoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny bctscoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong shopcoin will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny shopcoin nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bctscoinrpc
+rpcuser=shopcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;shopcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=bctscoinrpc
+rpcuser=shopcoinrpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;shopcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bctscoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. bctscoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  shopcoin is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. shopcoin už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bctscoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu bctscoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of shopcoin</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu shopcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bctscoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte bctscoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart shopcoin to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte shopcoin k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bctscoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. bctscoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. shopcoin is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. shopcoin je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

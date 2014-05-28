@@ -83,7 +83,7 @@ OBJS= \
     obj/kernel.o \
     obj/pbkdf2.o
 
-all: bctscoind.exe
+all: shopcoind.exe
 
 LIBS += $(CURDIR)/leveldb/libleveldb.a $(CURDIR)/leveldb/libmemenv.a
 DEFS += $(addprefix -I,$(CURDIR)/leveldb/include)
@@ -96,12 +96,12 @@ obj/txdb-leveldb.o: leveldb/libleveldb.a
 obj/%.o: %.cpp $(HEADERS)
 	g++ -c $(CFLAGS) -o $@ $<
 
-bctscoind.exe: $(OBJS:obj/%=obj/%)
+shopcoind.exe: $(OBJS:obj/%=obj/%)
 	g++ $(CFLAGS) $(LDFLAGS) -o $@ $(LIBPATHS) $^ $(LIBS)
 
 
 clean:
-	-del /Q bctscoind
+	-del /Q shopcoind
 	-del /Q obj\*
 
 FORCE:

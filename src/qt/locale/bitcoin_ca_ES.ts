@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bctscoin</source>
-        <translation>Sobre bctscoin</translation>
+        <source>About shopcoin</source>
+        <translation>Sobre shopcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bctscoin&lt;/b&gt; version</source>
-        <translation>versió &lt;b&gt;bctscoin&lt;/b&gt;</translation>
+        <source>&lt;b&gt;shopcoin&lt;/b&gt; version</source>
+        <translation>versió &lt;b&gt;shopcoin&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</source>
+Copyright © 2014 The shopcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</translation>
+Copyright © 2014 The shopcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,8 +60,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bctscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Aquestes són les teves adreces de bctscoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
+        <source>These are your shopcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Aquestes són les teves adreces de shopcoin per rebre els pagaments. És possible que vulgueu donar una diferent a cada remitent per a poder realitzar un seguiment de qui li está pagant.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bctscoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça bctscoin</translation>
+        <source>Sign a message to prove you own a shopcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;una adreça shopcoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bctscoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça bctscoin especificada.</translation>
+        <source>Verify a message to ensure it was signed with a specified shopcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb una adreça shopcoin especificada.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,8 +258,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>bctscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>bctscoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
+        <source>shopcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>shopcoin tancarà ara per acabar el procés de xifrat. Recordeu que l&apos;encriptació de la seva cartera no pot protegir completament les seves monedes de ser robades pel malware que pugui infectar al seu equip.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bctscoin</source>
-        <translation>Mostra informació sobre bctscoin</translation>
+        <source>Show information about shopcoin</source>
+        <translation>Mostra informació sobre shopcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -422,13 +422,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bctscoin address</source>
-        <translation>Enviar monedes a una adreça bctscoin</translation>
+        <source>Send coins to a shopcoin address</source>
+        <translation>Enviar monedes a una adreça shopcoin</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bctscoin</source>
-        <translation>Modificar les opcions de configuració per a bctscoin</translation>
+        <source>Modify configuration options for shopcoin</source>
+        <translation>Modificar les opcions de configuració per a shopcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -467,8 +467,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -477,8 +477,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bctscoin</source>
-        <translation>&amp;Sobre bctscoin</translation>
+        <source>&amp;About shopcoin</source>
+        <translation>&amp;Sobre shopcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -534,13 +534,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bctscoin client</source>
-        <translation>Client bctscoin</translation>
+        <source>shopcoin client</source>
+        <translation>Client shopcoin</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bctscoin network</source>
-        <translation><numerusform>%n conexió activa a la xarxa bctscoin</numerusform><numerusform>%n conexions actives a la xarxa bctscoin</numerusform></translation>
+        <source>%n active connection(s) to shopcoin network</source>
+        <translation><numerusform>%n conexió activa a la xarxa shopcoin</numerusform><numerusform>%n conexions actives a la xarxa shopcoin</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -579,13 +579,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About bctscoin card</source>
-        <translation>Sobre la tarjeta bctscoin</translation>
+        <source>About shopcoin card</source>
+        <translation>Sobre la tarjeta shopcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bctscoin card</source>
-        <translation>Mostra informació sobre la tarjeta bctscoin</translation>
+        <source>Show information about shopcoin card</source>
+        <translation>Mostra informació sobre la tarjeta shopcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -660,8 +660,8 @@ Address: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bctscoin address or malformed URI parameters.</source>
-        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça bctscoin no vàlida o paràmetres URI malformats.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid shopcoin address or malformed URI parameters.</source>
+        <translation>l&apos;URI no es pot analitzar! Això pot ser causat per una adreça shopcoin no vàlida o paràmetres URI malformats.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -720,8 +720,8 @@ Address: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bctscoin can no longer continue safely and will quit.</source>
-        <translation>S&apos;ha produït un error fatal. bctscoin ja no pot continuar de forma segura i es tancarà.</translation>
+        <source>A fatal error occurred. shopcoin can no longer continue safely and will quit.</source>
+        <translation>S&apos;ha produït un error fatal. shopcoin ja no pot continuar de forma segura i es tancarà.</translation>
     </message>
 </context>
 <context>
@@ -1054,8 +1054,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bctscoin address.</source>
-        <translation>La direcció introduïda &quot;%1&quot; no és una adreça bctscoin vàlida.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid shopcoin address.</source>
+        <translation>La direcció introduïda &quot;%1&quot; no és una adreça shopcoin vàlida.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1073,8 +1073,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bctscoin-Qt</source>
-        <translation>bctscoin-Qt</translation>
+        <source>shopcoin-Qt</source>
+        <translation>shopcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1146,13 +1146,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bctscoin after logging in to the system.</source>
-        <translation>Inicia automàticament bctscoin després d&apos;entrar en el sistema.</translation>
+        <source>Automatically start shopcoin after logging in to the system.</source>
+        <translation>Inicia automàticament shopcoin després d&apos;entrar en el sistema.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bctscoin on system login</source>
-        <translation>&amp;Iniciar bctscoin amb l&apos;inici de sessió</translation>
+        <source>&amp;Start shopcoin on system login</source>
+        <translation>&amp;Iniciar shopcoin amb l&apos;inici de sessió</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1171,8 +1171,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bctscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Obrir automàticament el port de client bctscoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
+        <source>Automatically open the shopcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Obrir automàticament el port de client shopcoin en el router. Això només funciona quan el router és compatible amb UPnP i està habilitat.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1181,8 +1181,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bctscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connecteu-vos a la xarxa bctscoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
+        <source>Connect to the shopcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Connecteu-vos a la xarxa shopcoin través d&apos;un proxy SOCKS (per exemple, quan es connecta a través de Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1256,8 +1256,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bctscoin.</source>
-        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar bctscoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting shopcoin.</source>
+        <translation>L&apos;idioma de la interfície d&apos;usuari es pot configurar aquí. Aquesta configuració s&apos;aplicarà després de reiniciar shopcoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1271,8 +1271,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bctscoin addresses in the transaction list or not.</source>
-        <translation>Per mostrar bctscoin adreces a la llista de transaccions o no.</translation>
+        <source>Whether to show shopcoin addresses in the transaction list or not.</source>
+        <translation>Per mostrar shopcoin adreces a la llista de transaccions o no.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1318,8 +1318,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bctscoin.</source>
-        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar bctscoin.</translation>
+        <source>This setting will take effect after restarting shopcoin.</source>
+        <translation>Aquesta configuració s&apos;aplicarà després de reiniciar shopcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1337,8 +1337,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bctscoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa bctscoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the shopcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>La informació mostrada pot estar fora de data. La seva cartera es sincronitza automàticament amb la xarxa shopcoin després d&apos;establir una connexió, però aquest procés no s&apos;ha completat encara.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1553,8 +1553,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bctscoin-Qt help message to get a list with possible bctscoin command-line options.</source>
-        <translation>Mostra el missatge d&apos;ajuda de bctscoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres bctscoin.</translation>
+        <source>Show the shopcoin-Qt help message to get a list with possible shopcoin command-line options.</source>
+        <translation>Mostra el missatge d&apos;ajuda de shopcoin-Qt per obtenir una llista amb les possibles opcions de línia d&apos;ordres shopcoin.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1573,13 +1573,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>bctscoin - Debug window</source>
-        <translation>bctscoin - Finestra Depuració</translation>
+        <source>shopcoin - Debug window</source>
+        <translation>shopcoin - Finestra Depuració</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bctscoin Core</source>
-        <translation>Nucli bctscoin</translation>
+        <source>shopcoin Core</source>
+        <translation>Nucli shopcoin</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1588,8 +1588,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bctscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Obriu el fitxer de registre de depuració bctscoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
+        <source>Open the shopcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Obriu el fitxer de registre de depuració shopcoin des del directori de dades actual. Això pot trigar uns segons en els arxius de registre de grans dimensions.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1598,8 +1598,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bctscoin RPC console.</source>
-        <translation>Benvingut a la consola RPC de bctscoin.</translation>
+        <source>Welcome to the shopcoin RPC console.</source>
+        <translation>Benvingut a la consola RPC de shopcoin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1757,8 +1757,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça bctscoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça shopcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1857,8 +1857,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bctscoin address</source>
-        <translation>ADVERTÈNCIA: Direcció bctscoin invàlida</translation>
+        <source>WARNING: Invalid shopcoin address</source>
+        <translation>ADVERTÈNCIA: Direcció shopcoin invàlida</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1931,8 +1931,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça bctscoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça shopcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1992,8 +1992,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bctscoin address</source>
-        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça bctscoin</translation>
+        <source>Sign the message to prove you own this shopcoin address</source>
+        <translation>Signar un missatge per demostrar que és propietari d&apos;aquesta adreça shopcoin</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2024,8 +2024,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bctscoin address</source>
-        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça bctscoin especificada.</translation>
+        <source>Verify the message to ensure it was signed with the specified shopcoin address</source>
+        <translation>Comproveu el missatge per assegurar-se que es va signar amb l&apos;adreça shopcoin especificada.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2035,8 +2035,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Introdueix una adreça bctscoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Introdueix una adreça shopcoin (p.ex. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2045,8 +2045,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bctscoin signature</source>
-        <translation>Introduïu la signatura bctscoin</translation>
+        <source>Enter shopcoin signature</source>
+        <translation>Introduïu la signatura shopcoin</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2616,8 +2616,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bctscoin version</source>
-        <translation>versió bctscoin</translation>
+        <source>shopcoin version</source>
+        <translation>versió shopcoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2626,8 +2626,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bctscoind</source>
-        <translation>Enviar comandes a -server o bctscoind</translation>
+        <source>Send command to -server or shopcoind</source>
+        <translation>Enviar comandes a -server o shopcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2646,13 +2646,13 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bctscoin.conf)</source>
-        <translation>Especifiqueu el fitxer de configuració (per defecte: bctscoin.conf)</translation>
+        <source>Specify configuration file (default: shopcoin.conf)</source>
+        <translation>Especifiqueu el fitxer de configuració (per defecte: shopcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bctscoind.pid)</source>
-        <translation>Especificar arxiu pid (per defecte: bctscoind.pid)</translation>
+        <source>Specify pid file (default: shopcoind.pid)</source>
+        <translation>Especificar arxiu pid (per defecte: shopcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2801,8 +2801,8 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bctscoin will not work properly.</source>
-        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni bctscoin no funcionarà correctament.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong shopcoin will not work properly.</source>
+        <translation>Avís: Comproveu que la data i hora de l&apos;equip siguin correctes! Si el seu rellotge és erroni shopcoin no funcionarà correctament.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2991,24 +2991,24 @@ En aquest cas es requereix una comisió d&apos;almenys 2%.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bctscoinrpc
+rpcuser=shopcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;shopcoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, ha d&apos;establir un rpcpassword al fitxer de configuració:
 %s
 Es recomana utilitzar la següent contrasenya aleatòria:
-rpcuser=bctscoinrpc
+rpcuser=shopcoinrpc
 rpcpassword=%s
 (No cal recordar aquesta contrasenya)
 El nom d&apos;usuari i contrasenya NO HA DE SER el mateix.
 Si no hi ha l&apos;arxiu, s&apos;ha de crear amb els permisos de només lectura per al propietari.
 També es recomana establir alertnotify per a que se li notifiquin els problemes;
-per exemple: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.com
+per exemple: alertnotify=echo %%s | mail -s &quot;shopcoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3134,13 +3134,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bctscoin is probably already running.</source>
-        <translation>No es pot obtenir un bloqueig en el directori de dades %s. bctscoin probablement ja estigui en funcionament.</translation>
+        <source>Cannot obtain a lock on data directory %s.  shopcoin is probably already running.</source>
+        <translation>No es pot obtenir un bloqueig en el directori de dades %s. shopcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3174,13 +3174,13 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bctscoin</source>
-        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de bctscoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of shopcoin</source>
+        <translation>Error en carregar wallet.dat: La cartera requereix la versió més recent de shopcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bctscoin to complete</source>
-        <translation>La cartera necessita ser reescrita: reiniciar bctscoin per completar</translation>
+        <source>Wallet needed to be rewritten: restart shopcoin to complete</source>
+        <translation>La cartera necessita ser reescrita: reiniciar shopcoin per completar</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3249,8 +3249,8 @@ Executar una ordre quan es rep un avís rellevant (%s en cmd es substitueix per 
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bctscoin is probably already running.</source>
-        <translation>No es pot enllaçar a %s en aquest equip. bctscoin probablement ja estigui en funcionament.</translation>
+        <source>Unable to bind to %s on this computer. shopcoin is probably already running.</source>
+        <translation>No es pot enllaçar a %s en aquest equip. shopcoin probablement ja estigui en funcionament.</translation>
     </message>
     <message>
         <location line="-97"/>

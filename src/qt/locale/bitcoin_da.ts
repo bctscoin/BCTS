@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About bctscoin</source>
-        <translation>Om bctscoin</translation>
+        <source>About shopcoin</source>
+        <translation>Om shopcoin</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;bctscoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;bctscoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;shopcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;shopcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</source>
+Copyright © 2014 The shopcoin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The bctscoin developers</translation>
+Copyright © 2014 The shopcoin developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your bctscoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine bctscoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your shopcoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine shopcoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a bctscoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en bctscoin adresse</translation>
+        <source>Sign a message to prove you own a shopcoin address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en shopcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified bctscoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret bctscoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified shopcoin address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret shopcoin adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>bctscoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>bctscoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>shopcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>shopcoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about bctscoin</source>
-        <translation>Vis oplysninger om bctscoin</translation>
+        <source>Show information about shopcoin</source>
+        <translation>Vis oplysninger om shopcoin</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a bctscoin address</source>
-        <translation>Send mønter til en bctscoin adresse</translation>
+        <source>Send coins to a shopcoin address</source>
+        <translation>Send mønter til en shopcoin adresse</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for bctscoin</source>
-        <translation>Ændre indstillingsmuligheder for bctscoin</translation>
+        <source>Modify configuration options for shopcoin</source>
+        <translation>Ændre indstillingsmuligheder for shopcoin</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About bctscoin</source>
-        <translation>&amp;Om bctscoin</translation>
+        <source>&amp;About shopcoin</source>
+        <translation>&amp;Om shopcoin</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>bctscoin client</source>
-        <translation>bctscoin Klient</translation>
+        <source>shopcoin client</source>
+        <translation>shopcoin Klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to bctscoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til bctscoin netværk</numerusform><numerusform>%n aktive forbindelser til bctscoin netværk</numerusform></translation>
+        <source>%n active connection(s) to shopcoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til shopcoin netværk</numerusform><numerusform>%n aktive forbindelser til shopcoin netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About bctscoin card</source>
-        <translation>Om bctscoin kort</translation>
+        <source>About shopcoin card</source>
+        <translation>Om shopcoin kort</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about bctscoin card</source>
-        <translation>Vis oplysninger om bctscoin kort</translation>
+        <source>Show information about shopcoin card</source>
+        <translation>Vis oplysninger om shopcoin kort</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid bctscoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig bctscoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid shopcoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig shopcoin adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,7 +729,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. bctscoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. shopcoin can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1063,8 +1063,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid bctscoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig bctscoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid shopcoin address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig shopcoin adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>bctscoin-Qt</source>
-        <translation>bctscoin-Qt</translation>
+        <source>shopcoin-Qt</source>
+        <translation>shopcoin-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start bctscoin after logging in to the system.</source>
-        <translation>Automatisk start bctscoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start shopcoin after logging in to the system.</source>
+        <translation>Automatisk start shopcoin efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start bctscoin on system login</source>
-        <translation>&amp;Start bctscoin ved systems login</translation>
+        <source>&amp;Start shopcoin on system login</source>
+        <translation>&amp;Start shopcoin ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the bctscoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne bctscoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the shopcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne shopcoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the bctscoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til bctscoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the shopcoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til shopcoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting bctscoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af bctscoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting shopcoin.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af shopcoin tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show bctscoin addresses in the transaction list or not.</source>
-        <translation>Få vist bctscoin adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show shopcoin addresses in the transaction list or not.</source>
+        <translation>Få vist shopcoin adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting bctscoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af bctscoin.</translation>
+        <source>This setting will take effect after restarting shopcoin.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af shopcoin.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the bctscoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med bctscoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the shopcoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med shopcoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the bctscoin-Qt help message to get a list with possible bctscoin command-line options.</source>
-        <translation>Vis bctscoin-Qt hjælpe besked for at få en liste med mulige bctscoin kommandolinjeparametre.</translation>
+        <source>Show the shopcoin-Qt help message to get a list with possible shopcoin command-line options.</source>
+        <translation>Vis shopcoin-Qt hjælpe besked for at få en liste med mulige shopcoin kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>bctscoin - Debug window</source>
-        <translation>bctscoin - Debug vindue</translation>
+        <source>shopcoin - Debug window</source>
+        <translation>shopcoin - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>bctscoin Core</source>
-        <translation>bctscoin Kerne</translation>
+        <source>shopcoin Core</source>
+        <translation>shopcoin Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the bctscoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn bctscoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the shopcoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn shopcoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the bctscoin RPC console.</source>
-        <translation>Velkommen til bctscoin RPC-konsol.</translation>
+        <source>Welcome to the shopcoin RPC console.</source>
+        <translation>Velkommen til shopcoin RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en bctscoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en shopcoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid bctscoin address</source>
-        <translation>ADVARSEL: Ugyldig bctscoin adresse</translation>
+        <source>WARNING: Invalid shopcoin address</source>
+        <translation>ADVARSEL: Ugyldig shopcoin adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en bctscoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en shopcoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this bctscoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne bctscoin adresse</translation>
+        <source>Sign the message to prove you own this shopcoin address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne shopcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified bctscoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne bctscoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified shopcoin address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne shopcoin adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a bctscoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Indtast en bctscoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a shopcoin address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Indtast en shopcoin-adresse (f.eks B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter bctscoin signature</source>
-        <translation>Indtast bctscoin underskrift</translation>
+        <source>Enter shopcoin signature</source>
+        <translation>Indtast shopcoin underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>bctscoin version</source>
-        <translation>bctscoin version</translation>
+        <source>shopcoin version</source>
+        <translation>shopcoin version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or bctscoind</source>
-        <translation>Send kommando til-server eller bctscoind</translation>
+        <source>Send command to -server or shopcoind</source>
+        <translation>Send kommando til-server eller shopcoind</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: bctscoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: bctscoin.conf)</translation>
+        <source>Specify configuration file (default: shopcoin.conf)</source>
+        <translation>Angiv konfigurationsfil (default: shopcoin.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: bctscoind.pid)</source>
-        <translation>Angiv pid fil (standard: bctscoind.pid)</translation>
+        <source>Specify pid file (default: shopcoind.pid)</source>
+        <translation>Angiv pid fil (standard: shopcoind.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong bctscoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil bctscoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong shopcoin will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil shopcoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=bctscoinrpc
+rpcuser=shopcoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;bctscoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;shopcoin Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = bctscoinrpc  
+rpcuser = shopcoinrpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;bctscoin Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;shopcoin Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3142,13 +3142,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bctscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  bctscoin is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. bctscoin kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  shopcoin is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. shopcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>bctscoin</source>
-        <translation>bctscoin</translation>
+        <source>shopcoin</source>
+        <translation>shopcoin</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3182,13 +3182,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bctscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of bctscoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af bctscoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of shopcoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af shopcoin</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart bctscoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart bctscoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart shopcoin to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart shopcoin for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;bctscoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. bctscoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. bctscoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. shopcoin is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. shopcoin kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

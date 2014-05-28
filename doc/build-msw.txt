@@ -7,7 +7,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP
 software written by Thomas Bernard.
 
 
-See readme-qt.rst for instructions on building bctscoin QT, the
+See readme-qt.rst for instructions on building shopcoin QT, the
 graphical user interface.
 
 WINDOWS BUILD NOTES
@@ -76,9 +76,9 @@ make -f Makefile.mingw
 mkdir miniupnpc
 cp *.h miniupnpc/
 
-bctscoin
+shopcoin
 -------
 DOS prompt:
-cd \bctscoin\src
+cd \shopcoin\src
 mingw32-make -f makefile.mingw
-strip bctscoind.exe
+strip shopcoind.exe
